@@ -6,11 +6,11 @@ import { FaGithub} from 'react-icons/fa'
 const Work = () => {
     const project = data;
     return (
-      <div name='work' className='flex items-center w-full md:h-[2200px] text-gray-300 bg-[#0a192f]'>
+      <div name='work' className='flex items-center w-full md:h-[2200px] mt-16 sm:mt-32 text-gray-300 bg-[#0a192f]'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
     
-          {/* Add some space at the top for all screens */}
-          <div className='pb-8 md:pb-12'>
+          {/* Add significant space at the top for all screens */}
+          <div className='pb-16 md:pb-12'>
     
             <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-purple-500'>
               Work
@@ -28,7 +28,7 @@ const Work = () => {
     
                   <img src={item.image} alt="" className="w-full h-full object-cover" />
     
-                  <div className="flex flex-col justify-between ml-2 p-4 bg-[rgba(0,0,0,0.7)] w-full h-full absolute top-0 left-0 opacity-0 hover:opacity-100 transition-opacity">
+                  <div className="flex flex-col justify-between ml-2 p-4 bg-[rgba(0,0,0,0.7)] w-full h-full absolute top-0 left-0 opacity-0 hover:opacity-100 transition-opacity sm:mt-16">
     
                     <p className="font-bold text-lg text-white">{item.name}</p>
     
