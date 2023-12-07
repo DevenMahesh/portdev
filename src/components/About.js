@@ -18,8 +18,7 @@ const About = () => {
               <p>Hey, I'm Deven .</p>
             </div>
             <div>
-              <p>As a final year Computer Science student I am highly motivated and dedicated to continuously improving my skills. My goal is to simplify the complexities of our world. I work well in teams. Have a talent, for
-understanding technical environments. I am eager to learn from engineers and bridge the gap, between knowledge and real world industry dynamics.</p>  
+              <p>Passionate final-year B.Tech Computer Science Engineering student at PES University, eager to embark on a transformative internship. Proficient in diverse programming languages and dedicated to innovative problem-solving. Ready to contribute my skills, learn, and grow in a dynamic professional environment</p>  
             </div>
           </div>
       </div>
