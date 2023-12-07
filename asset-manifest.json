@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/portdev/static/css/main.a7e7178a.css",
-    "main.js": "/portdev/static/js/main.f1c93488.js",
+    "main.js": "/portdev/static/js/main.660ee38c.js",
+    "static/media/MERN-logo.png": "/portdev/static/media/MERN-logo.4fbe9fc4c65973e28071.png",
+    "static/media/ethereum.png": "/portdev/static/media/ethereum.3b8110acefb35b1f1e63.png",
+    "static/media/chatapp.png": "/portdev/static/media/chatapp.25cc5e1045b4a9939285.png",
     "static/media/python.png": "/portdev/static/media/python.2971f8ca9ea7f8f9667e.png",
     "static/media/DevenMahesh_resume_19.pdf": "/portdev/static/media/DevenMahesh_resume_19.f98e0f57a5247cbc0c1e.pdf",
-    "static/media/MERN-logo.png": "/portdev/static/media/MERN-logo.39d4f78651cc4a93b96f.png",
     "static/media/aws.png": "/portdev/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/react.png": "/portdev/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portdev/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,10 +21,10 @@
     "static/media/javascript.png": "/portdev/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portdev/index.html",
     "main.a7e7178a.css.map": "/portdev/static/css/main.a7e7178a.css.map",
-    "main.f1c93488.js.map": "/portdev/static/js/main.f1c93488.js.map"
+    "main.660ee38c.js.map": "/portdev/static/js/main.660ee38c.js.map"
   },
   "entrypoints": [
     "static/css/main.a7e7178a.css",
-    "static/js/main.f1c93488.js"
+    "static/js/main.660ee38c.js"
   ]
 }
