@@ -28,12 +28,13 @@ const Work = () => {
               <div className="flex flex-col justify-between ml-2 p-4 bg-[rgba(0,0,0,0.7)] w-[100%] h-[100%] absolute top-0 left-[-8px] opacity-100 ">
 
                 <p className="font-bold text-lg text-[#98E4FF]">{item.name}</p>
-
+               { item.github &&
                 <div className="flex items-center mt-2">
                   <a className='text-white' href={item.github}>
                     <FaGithub className="hover:w-8 hover:h-8 hover:bg-green-300" size={24} />
                   </a>
                 </div>
+}
 
               </div>
 
