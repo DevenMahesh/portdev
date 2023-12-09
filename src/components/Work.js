@@ -6,7 +6,7 @@ import { FaGithub} from 'react-icons/fa'
 const Work = () => {
     const project = data;
     return (
-      <div name='work' className='w-full md:h-screen text-black-300 bg-[#CDF5FD]'>
+      <div name='work' className='w-full md:h-screen pb-20 text-black-300 bg-[#CDF5FD]'>
       <div className='max-w-[1000px] mx-auto p-4 pt-[200px] flex flex-col justify-center w-full h-full'>
         <div className='pb-8 pt-50'>
           <p className='text-4xl font-bold inline border-b-4 text-black-300 border-blue-700'>
