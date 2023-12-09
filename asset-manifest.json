@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portdev/static/css/main.8d1498db.css",
-    "main.js": "/portdev/static/js/main.30046f43.js",
+    "main.css": "/portdev/static/css/main.5fcc2a83.css",
+    "main.js": "/portdev/static/js/main.d9505a24.js",
     "static/media/MERN-logo.png": "/portdev/static/media/MERN-logo.4fbe9fc4c65973e28071.png",
     "static/media/ethereum.png": "/portdev/static/media/ethereum.3b8110acefb35b1f1e63.png",
     "static/media/chatapp.png": "/portdev/static/media/chatapp.25cc5e1045b4a9939285.png",
@@ -20,11 +20,11 @@
     "static/media/firebase.png": "/portdev/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/portdev/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portdev/index.html",
-    "main.8d1498db.css.map": "/portdev/static/css/main.8d1498db.css.map",
-    "main.30046f43.js.map": "/portdev/static/js/main.30046f43.js.map"
+    "main.5fcc2a83.css.map": "/portdev/static/css/main.5fcc2a83.css.map",
+    "main.d9505a24.js.map": "/portdev/static/js/main.d9505a24.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d1498db.css",
-    "static/js/main.30046f43.js"
+    "static/css/main.5fcc2a83.css",
+    "static/js/main.d9505a24.js"
   ]
 }
