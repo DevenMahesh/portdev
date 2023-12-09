@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/portdev/static/css/main.5fcc2a83.css",
-    "main.js": "/portdev/static/js/main.d9505a24.js",
+    "main.js": "/portdev/static/js/main.c12ec5cf.js",
+    "static/media/machine.png": "/portdev/static/media/machine.dd8b8b3855694121e54f.png",
     "static/media/MERN-logo.png": "/portdev/static/media/MERN-logo.4fbe9fc4c65973e28071.png",
     "static/media/ethereum.png": "/portdev/static/media/ethereum.3b8110acefb35b1f1e63.png",
+    "static/media/youtube.png": "/portdev/static/media/youtube.fd78e128f03289da82e6.png",
     "static/media/chatapp.png": "/portdev/static/media/chatapp.25cc5e1045b4a9939285.png",
     "static/media/python.png": "/portdev/static/media/python.2971f8ca9ea7f8f9667e.png",
     "static/media/DevenMahesh_resume_19.pdf": "/portdev/static/media/DevenMahesh_resume_19.f98e0f57a5247cbc0c1e.pdf",
@@ -13,7 +15,6 @@
     "static/media/mongo.png": "/portdev/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/portdev/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portdev/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/machine.png": "/portdev/static/media/machine.0e514c9b6ecc9bcfac9d.png",
     "static/media/tailwind.png": "/portdev/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portdev/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/logo1.png": "/portdev/static/media/logo1.04b9cde5bdd56c7cb0c8.png",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/portdev/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portdev/index.html",
     "main.5fcc2a83.css.map": "/portdev/static/css/main.5fcc2a83.css.map",
-    "main.d9505a24.js.map": "/portdev/static/js/main.d9505a24.js.map"
+    "main.c12ec5cf.js.map": "/portdev/static/js/main.c12ec5cf.js.map"
   },
   "entrypoints": [
     "static/css/main.5fcc2a83.css",
-    "static/js/main.d9505a24.js"
+    "static/js/main.c12ec5cf.js"
   ]
 }
